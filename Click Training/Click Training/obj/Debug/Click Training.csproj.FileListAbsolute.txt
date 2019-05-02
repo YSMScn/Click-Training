@@ -1,0 +1,12 @@
+D:\vs c# program\repos\Click Training\Click Training\bin\Debug\Click Training.exe.config
+D:\vs c# program\repos\Click Training\Click Training\bin\Debug\Click Training.exe
+D:\vs c# program\repos\Click Training\Click Training\bin\Debug\Click Training.pdb
+D:\vs c# program\repos\Click Training\Click Training\obj\Debug\Click Training.csprojAssemblyReference.cache
+D:\vs c# program\repos\Click Training\Click Training\obj\Debug\Click_Trainning.GamingForm.resources
+D:\vs c# program\repos\Click Training\Click Training\obj\Debug\Click_Trainning.HighestScore.resources
+D:\vs c# program\repos\Click Training\Click Training\obj\Debug\Click_Trainning.Main.resources
+D:\vs c# program\repos\Click Training\Click Training\obj\Debug\Click_Training.Properties.Resources.resources
+D:\vs c# program\repos\Click Training\Click Training\obj\Debug\Click Training.csproj.GenerateResource.cache
+D:\vs c# program\repos\Click Training\Click Training\obj\Debug\Click Training.csproj.CoreCompileInputs.cache
+D:\vs c# program\repos\Click Training\Click Training\obj\Debug\Click Training.exe
+D:\vs c# program\repos\Click Training\Click Training\obj\Debug\Click Training.pdb
