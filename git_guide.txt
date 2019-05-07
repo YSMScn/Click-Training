@@ -31,5 +31,5 @@ git config --global user.email "your_email_address@example.com"
 6. u wanna "pull" the file added just by me
     --- git pull ---
 
-7. u wanna add all new file and changed file(then u need to push)
+7. u wanna add all new file and changed file(then u need to do step 4 and 5 so the file can be loaded)
     --- git add -A ---
