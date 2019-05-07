@@ -1,12 +1,35 @@
 watch this:   https://www.youtube.com/watch?v=0fKg7e37bQE
 
-
 how to use git by terminal(Mac) or CMD for windows
 
+first log in your git account in CMD
+
+git config --global user.name "YOUR_USERNAME"
+git config --global user.email "your_email_address@example.com"
+
+
+
 1. clone the repository
-    cd "your folder"
-    git clone https://github.com/YSMScn/Click-Training          (our repository url)
+    --- cd "your folder" ---
+    --- git clone https://github.com/YSMScn/Click-Training ---       (our repository url)
+    then:
+    --- cd "the repository folder name" ---
 
 
 2. add the new file
-    git add git_guide.txt
+    --- git add git_guide.txt ---
+
+3. check the status
+    --- git status ---
+
+4. commit the new file
+    --- git commit -m "added git_guide.txt" ---
+
+5. now upload the file to the github repository, F5 on the web page
+    --- git push ---
+
+6. u wanna "pull" the file added just by me
+    --- git pull ---
+
+7. u wanna add all new file and changed file(then u need to push)
+    --- git add -A ---
