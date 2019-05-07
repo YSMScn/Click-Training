@@ -1,0 +1,12 @@
+watch this:   https://www.youtube.com/watch?v=0fKg7e37bQE
+
+
+how to use git by terminal(Mac) or CMD for windows
+
+1. clone the repository
+    cd "your folder"
+    git clone https://github.com/YSMScn/Click-Training          (our repository url)
+
+
+2. add the new file
+    git add git_guide.txt
